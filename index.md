@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+## Personal Projects
 
-You can use the [editor on GitHub](https://github.com/n-e-e-l/Project-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Below are the list of my personal projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Data Anlytics Olympics: 
+### [Data Analytics App](https://data-analytics-olympics.herokuapp.com/)
+### [Data Analytics](https://github.com/n-e-e-l/Data-Analytics-Olympics) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ul>
+<li>Analysis of the olympic dataset in detail</li>
+<li>Overall Medal tally to give big picture</li>
+<li>Countrywise analysis giving insights about the performance of the countrries in various sports over the years in olmpic events..</li>
+<li>Athletic analysis for various sports for deriving insght about the fitness and competition in the sports.</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+### Reommendation Engine: 
+### [Recommender Engine App](https://neel-recommendation-engine.herokuapp.com/)
+### [Recommender Engine](https://github.com/n-e-e-l/content-based-Recommender)
 
-# Header 1
-## Header 2
-### Header 3
+<ul>
+<li>Recommendation of movie based on the various metadata like Genere, Director, Description & Keyword.</li>
+<li>Implemented two different approaches for content based recommendation engine.</li>
+<li>Streamlit & Heroku used for designing the UI and serving the model.</li>
+</ul>
 
-- Bulleted
-- List
+### Customer Segmentation: [Segmentation](https://github.com/n-e-e-l/customer-segmentation)
 
-1. Numbered
-2. List
+<ul>
+<li>Ulabox is the most successful online grocery in Spain. We analyze the data to understand the behavior of similar customers & pattern of similar orders.</li>
+<li>Build a Machine leanring pipeline to clean and cluster the data. </li>
+<li>K-means clustering to cluster similar customers together.</li>
+<li>Density based DBSCAN clustering to cluster similar orders together.</li>
+</ul>
 
-**Bold** and _Italic_ and `Code` text
+### Stock Market Prediciton: [Regression](https://github.com/n-e-e-l/Stock-Market-Prediction)
 
-[Link](url) and ![Image](src)
-```
+<ul>
+<li>Reliance is the biggest private company of india and a part of NIFTY50 stock at India's biggest Stock Exchange National Stock Exchange (NSE)</li>
+<li>Predicting the price of the stock using a Time Series univariate Long Short Term Memory (LSTM) </li>
+<li>Also Implemented is Multivariate Timeseries LSTM</li>
+</ul>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Decision Support System : Help in Yelp.
+### [Decision App](https://snehavidekarovgu.shinyapps.io/DecisionSupportSystem/)
+### [Decision Supoort System](https://github.com/n-e-e-l/Team-Rocket)
+<ul>
+<li>Analyze the reviews of various restaurants on yelp using Natural Language Processing (NLP) and geographical data processing. </li>
+<li>R-Shiny application for geographical prediction of favorable places for new business.</li>
+<li>Random Forest and Naive Bayes Deciion Model for final prediciton.</li>
+</ul>
 
-### Jekyll Themes
+### [Spooky Author Detection:NLP](https://github.com/n-e-e-l/NLP)
+<ul>
+<li>The dataset contains text from works of fiction written by spooky authors. Goal here is to accurately identify the author. </li>
+<li>Pre-processing and feature engineering for converting the text data. </li>
+<li>Term Frequency — Inverse Document Frequency(TF-IDF) to quantify a word in documents.</li>
+<li> Naive Bayes model used on TF-IDF data for probabilistic classification.</li>
+</ul>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/n-e-e-l/Project-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [Dimensionality Reduction](https://github.com/n-e-e-l/DimensionalityReduction)
+<ul>
+<li>Given dataset has more than 800 attributes. The main goal is to retain most information while reducing the attributes. </li>
+<li>Principal component analysis (PCA) is done to reduce the dimension of the dataset while retaining as much as possible of the variation.</li>
+<li>t-SNE is a non linear technique for dimensionality reduction.</li>
+</ul>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [EDA: Habermann-Dataset](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman)
+<ul>
+<li>Analyze data set to summarize the main characteristics present.</li>
+<li>Implementing graphical techniques such as box plot, volin plot and heatmap to generate insight about the data.<\li>
+</ul>
