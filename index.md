@@ -5,7 +5,7 @@ Below are the list of my personal projects.
 
 ### Data Anlytics Olympics: 
 ### [Data Analytics App](https://data-analytics-olympics.herokuapp.com/)
-### [Data Analytics](https://github.com/n-e-e-l/Data-Analytics-Olympics) 
+### [Code: Data Analytics](https://github.com/n-e-e-l/Data-Analytics-Olympics) 
 
 <ul>
 <li>Analysis of the olympic dataset in detail</li>
@@ -16,7 +16,7 @@ Below are the list of my personal projects.
 
 ### Reommendation Engine: 
 ### [Recommender Engine App](https://neel-recommendation-engine.herokuapp.com/)
-### [Recommender Engine](https://github.com/n-e-e-l/content-based-Recommender)
+### [Code: Recommender Engine](https://github.com/n-e-e-l/content-based-Recommender)
 
 <ul>
 <li>Recommendation of movie based on the various metadata like Genere, Director, Description & Keyword.</li>
@@ -43,7 +43,7 @@ Below are the list of my personal projects.
 
 ### Decision Support System : Help in Yelp.
 ### [Decision App](https://snehavidekarovgu.shinyapps.io/DecisionSupportSystem/)
-### [Decision Supoort System](https://github.com/n-e-e-l/Team-Rocket)
+### [Code: Decision Supoort System](https://github.com/n-e-e-l/Team-Rocket)
 <ul>
 <li>Analyze the reviews of various restaurants on yelp using Natural Language Processing (NLP) and geographical data processing. </li>
 <li>R-Shiny application for geographical prediction of favorable places for new business.</li>
