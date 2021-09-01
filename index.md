@@ -67,5 +67,4 @@ Below are the list of my personal projects.
 ### [EDA: Habermann-Dataset](https://github.com/n-e-e-l/ExploratoryDataAnalysis_Haberman)
 <ul>
 <li>Analyze the data set to summarize the main characteristics present.</li>
-<li>Implementing graphical techniques such as box plot, violin plot, and heatmap to generate insight about the data.<\li>
-</ul>
+<li>Implementing graphical techniques such as box plot, violin plot, and heatmap to generate insight about the data.
